@@ -1,0 +1,7 @@
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.exe.config
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.exe
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\bin\Debug\HolaMundoApp.pdb
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.csprojAssemblyReference.cache
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.csproj.CoreCompileInputs.cache
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.exe
+C:\Users\fred\Desktop\SOFTTEK\REPOS ACADEMIA\HolaMundoApp\HolaMundoApp\obj\Debug\HolaMundoApp.pdb
